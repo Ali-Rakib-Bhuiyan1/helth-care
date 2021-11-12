@@ -1,0 +1,46 @@
+ 
+      [
+        {
+            "id": 1,
+            "name": " Eye Care Solutions",
+         
+            "description": "For the best in eye care health, trust licensed optometrist, Dr. Vishal Patel, of Eye Care Solutions in Milton, Georgia. He uses his experience and knowledge to provide exams, diagnosis, and treatments of all disorders that affect the eye or vision in a comfortable, patient-centered setting.Trained in anatomy, biochemistry, and physiology, Dr. Patel has the expertise necessary to recognize a range of health issues, including glaucoma, macular degeneration, dry eyes, diabetes, and hypertension. His office, equipped with the latest technology, allows him to give the best care to his patients. He also keeps himself informed of the most recent advances in eye health and vision care through conferences, seminars, and advanced training courses.",
+            "img": "https://previews.123rf.com/images/alluranet/alluranet1705/alluranet170500245/77393928-eye-care-solutions-letter-r.jpg"},
+        
+        {
+            "id": 2,
+            "name": "Dental Surgery",
+           
+            "description": "1.Removal of impacted and/or diseasedPlacement of dental implants Correcting facial trauma to the jaw/mouth area Evaluation and treatment of pathologic conditions such as cysts/tumors of the mouth or face, severe oral infections, etc.Diagnosing and treating facial pain caused by temporomandibular joint issues or other types of joint problemsPerforming cosmetic or reconstructive surgery involving facial bone, the jaw, or the soft tissue of the face which may result from the removal of tumors or cysts, or from facial trauma",
+            "img": "http://www.sanjeevanidentalclinic.com/wp-content/uploads/2016/09/dental-chair-300x242.gif"
+        },
+        {
+            "id": 3,
+            "name": "Blood Tests And X-Rays",
+           
+            "description": "The first step toward any medical treatment is accurately getting to the root cause of your symptoms. This usually involves a physical examination, review of your symptoms and medical history, and may also require diagnostic testing to either confirm an initial diagnosis or rule out other causes. For example, X-rays may be necessary to identify tiny fractures or other structural issues; a swab of the throat may be necessary to confirm the presence of strep throat or a urine test may be required to confirm whether you are pregnant.When you come to Cornerstone Urgent Care Center in Chili, Rochester, New York, our on-site diagnostic radiology and clinical laboratory services can help get you properly and quickly diagnosed.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSTJoUnsoA1Z6ywcgGVbLUhTc7M-pvgecZA&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "Medicies And Drug Store",
+            "price": "180",
+            "description": "Over 25 years of DIC activity, it can be stated that more than two thousand medicines enquiries were solved within DIC, whilst some of our interesting results have been presented at international and national conferences, e.g. Symposium on Clinical Pharmacy of René Mach, the International Conference on Pharmacoepidemiology & Therapeutic Risk Management, Symposium of European Society of Clinical Pharmacy.March 2020 was very different for everyone because of COVID-19 pandemic. Our DIC joined to the announcement by the European Society of Clinical Pharmacy (ESCP) and the European Association of Hospital Pharmacists (EAHP) for best practice examples depicting the efforts that pharmacists in different setting for COVID-19 patients across Europe. DIC of FAF UK and FN HK has demonstrated how team of clinical pharmacists helped to provide timely and comprehensive medicines information regarding prevention of SARS-CoV-2 infection as well as compiled Essential drug list for community pharmacies in view of coming drug shortages. The new aspect of this service was that our DIC made the full enquiries and answers available to be disseminated to pharmacy professionals via the Czech Chamber of Pharmacists. To our knowledge, we are the first Drug Information Centre in Czech Republic that provided such service in COVID-19 pandemic",
+            "img": "https://cdn.w600.comps.canstockphoto.com/doctor-and-pills-drugstore-medicines-clipart-vector_csp79328559.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Floride Treatment",
+           
+            "description": "Fluoride treatments are safe for most people.Even when there are side effects, those effects are minimal compared to the benefits. Most of the harm is likely to come from swallowing very high amounts of fluoride.This does not mean that all fluoride treatments are safe for all people at all times. People with cavities or at risk of tooth decay should discuss their concerns with a dentist they trust..",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUt4gwiZM2uRB56q9-iAQZgSa4LVnXa0RFg&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Health Care Problems",
+           
+            "description": "An ad hoc committee of the Institute of Medicine will evaluate the existing knowledge about diagnostic error as a quality of care challenge; current definitions of diagnostic error and illustrative examples; and areas where additional research is needed. The committee will examine topics such as the epidemiology of diagnostic error, the burden of harm and economic costs associated with diagnostic error, and current efforts to address the problems The committee will propose solutions to the problem of diagnostic error, which may include: clarifying definitions and boundaries; integrating educational approaches; addressing behavioral/cognitive processes and cultural change; teamwork and systems engineering; measures and measurement approaches; research; changes in payment; approaches to medical liability; and health information technology and other technology changes.The committee will devise conclusions and recommendations that will propose action items for key stakeholders, such as patients/advocates, health care providers, health care organizations, federal and state policy makers, purchasers and payers, credentialing organizations, educators, researchers,  and the diagnostic testing and health information technology industries to achieve desired goals.",
+            "img": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/54feccc5148b7-heart-tests-ie0fnh-md.jpg"
+        }
+    ]
+  

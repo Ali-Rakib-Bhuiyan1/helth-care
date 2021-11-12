@@ -1,0 +1,45 @@
+ 
+      [
+    {
+        "id": 1,
+        "name": " Eye Care Solutions",
+     
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://previews.123rf.com/images/alluranet/alluranet1705/alluranet170500245/77393928-eye-care-solutions-letter-r.jpg"},
+    
+    {
+        "id": 2,
+        "name": "Dental Surgery",
+       
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "http://www.sanjeevanidentalclinic.com/wp-content/uploads/2016/09/dental-chair-300x242.gif"
+    },
+    {
+        "id": 3,
+        "name": "Blood Tests And X-Rays",
+       
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSTJoUnsoA1Z6ywcgGVbLUhTc7M-pvgecZA&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Medicies And Drug Store",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://cdn.w600.comps.canstockphoto.com/doctor-and-pills-drugstore-medicines-clipart-vector_csp79328559.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Floride Treatment",
+       
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUt4gwiZM2uRB56q9-iAQZgSa4LVnXa0RFg&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Health Care Problems",
+       
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/54feccc5148b7-heart-tests-ie0fnh-md.jpg"
+    }
+]
